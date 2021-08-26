@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kristina-molchanova90
-- 👀 I’m interested in DS, SQL and my daughter
+- 👀 I’m interested in DS
 - 🌱 I’m currently learning ML
 
 <!---
