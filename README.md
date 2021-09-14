@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kristina-molchanova90
+- 👋 Hi, I’m Kristina
 - 👀 I’m interested in DS
 - 🌱 I’m currently learning ML
 
